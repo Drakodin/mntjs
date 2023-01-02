@@ -1,5 +1,5 @@
 # mnt.js
-Client-side programmatic file loading library for static webpages
+Client-side programmatic file loading library for static webpages. Name is derived from the `/mnt/` directory in Linux wherein temporary (or permanent like in VMs) drives can be attached to allow access to their contents.
 
 ## Overview
 Folder paths in public always render as page consisting of files and act like a virtual file system in HTML. This library hijacks that functionality to extract those files from the HTML page, with customizability in the form of option arguments.
